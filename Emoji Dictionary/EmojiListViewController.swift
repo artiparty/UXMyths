@@ -13,7 +13,18 @@ class EmojiListViewController : UIViewController, UITableViewDataSource, UITable
     
     @IBOutlet weak var tableView: UITableView!
     
-    var myths = ["Myth #1: People read on the web","Myth #2: All pages should be accessible in 3 clicks","😱","👍","🎈","📦","🍎","🍬"]
+//    var myths = ["Myth #1: People read on the web","Myth #2: All pages should be accessible in 3 clicks","😱","👍","🎈","📦","🍎","🍬"]
+    
+    struct mythsList {
+        var number = String();
+        var title = String();
+        var url = String();
+    }
+    
+    let myths = [
+        mythsList(number: "Myth #1", title: "People read on the web", url: "432"),
+        mythsList(number: "Myth #2", title: "All pages should be accessible in 3 clicks", url: "123"),
+    ]
     
     var emoji = "👜"
     
