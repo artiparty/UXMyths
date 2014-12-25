@@ -12,20 +12,24 @@
 	<dict>
 		<key>04E9083A149F46DCB784BB03051E031E70FCB30D</key>
 		<string>https://github.com/artiparty/EmojiDictionary.git</string>
+		<key>8D3531D75F52D9975D9C2534D59F7388F6B4941E</key>
+		<string>https://github.com/artiparty/UXMyths.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Emoji Dictionary.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>04E9083A149F46DCB784BB03051E031E70FCB30D</key>
+		<string>../../../Emoji%20Dictionary</string>
+		<key>8D3531D75F52D9975D9C2534D59F7388F6B4941E</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/artiparty/EmojiDictionary.git</string>
+	<string>https://github.com/artiparty/UXMyths.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>04E9083A149F46DCB784BB03051E031E70FCB30D</string>
+	<string>8D3531D75F52D9975D9C2534D59F7388F6B4941E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>04E9083A149F46DCB784BB03051E031E70FCB30D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Emoji%20Dictionary</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8D3531D75F52D9975D9C2534D59F7388F6B4941E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UXMyths</string>
 		</dict>
 	</array>
 </dict>

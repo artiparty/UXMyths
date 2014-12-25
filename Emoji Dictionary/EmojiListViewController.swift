@@ -13,7 +13,7 @@ class EmojiListViewController : UIViewController, UITableViewDataSource, UITable
     
     @IBOutlet weak var tableView: UITableView!
     
-    var emojis = ["😄","🎉","😱","👍","🎈","📦","🍎","🍬"]
+    var myths = ["Myth #1: People read on the web","Myth #2: All pages should be accessible in 3 clicks","😱","👍","🎈","📦","🍎","🍬"]
     
     var emoji = "👜"
     
@@ -23,17 +23,17 @@ class EmojiListViewController : UIViewController, UITableViewDataSource, UITable
     }
     
     func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return self.emojis.count
+        return self.myths.count
     }
     
     func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
         var cell = UITableViewCell ()
-        cell.textLabel.text = self.emojis[indexPath.row]
+        cell.textLabel!.text = self.myths[indexPath.row]
         return cell
     }
     
     func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
-        self.emoji = self.emojis[indexPath.row]
+        self.emoji = self.myths[indexPath.row]
         self.performSegueWithIdentifier("tableViewToEmojiSegue", sender: self)
     }
     
@@ -41,7 +41,7 @@ class EmojiListViewController : UIViewController, UITableViewDataSource, UITable
         var detailViewController = segue.destinationViewController as EmojiDetailViewController
         detailViewController.emoji = self.emoji
         
-        if self.emoji == "😄" {
+        if self.emoji == "Myth #1: People read on the web" {
             detailViewController.emojiDefinition = "A smiling face" 
         }
 
