@@ -1,15 +1,15 @@
 //
-//  UX_MythsTests.swift
-//  UX MythsTests
+//  Emoji_DictionaryTests.swift
+//  Emoji DictionaryTests
 //
-//  Created by Arti on 12/25/14.
+//  Created by Arti on 11/16/14.
 //  Copyright (c) 2014 Arti. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class UX_MythsTests: XCTestCase {
+class Emoji_DictionaryTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

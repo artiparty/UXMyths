@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6AA2A25C1A4C649300BE269B"
-               BuildableName = "UX Myths.app"
-               BlueprintName = "UX Myths"
-               ReferencedContainer = "container:UX Myths.xcodeproj">
+               BlueprintIdentifier = "6A6F13CD1A18FED300B765A4"
+               BuildableName = "Emoji Dictionary.app"
+               BlueprintName = "Emoji Dictionary"
+               ReferencedContainer = "container:Emoji Dictionary.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6AA2A2761A4C649400BE269B"
-               BuildableName = "UX MythsTests.xctest"
-               BlueprintName = "UX MythsTests"
-               ReferencedContainer = "container:UX Myths.xcodeproj">
+               BlueprintIdentifier = "6A6F13E21A18FED300B765A4"
+               BuildableName = "Emoji DictionaryTests.xctest"
+               BlueprintName = "Emoji DictionaryTests"
+               ReferencedContainer = "container:Emoji Dictionary.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6AA2A2761A4C649400BE269B"
-               BuildableName = "UX MythsTests.xctest"
-               BlueprintName = "UX MythsTests"
-               ReferencedContainer = "container:UX Myths.xcodeproj">
+               BlueprintIdentifier = "6A6F13E21A18FED300B765A4"
+               BuildableName = "Emoji DictionaryTests.xctest"
+               BlueprintName = "Emoji DictionaryTests"
+               ReferencedContainer = "container:Emoji Dictionary.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6AA2A25C1A4C649300BE269B"
-            BuildableName = "UX Myths.app"
-            BlueprintName = "UX Myths"
-            ReferencedContainer = "container:UX Myths.xcodeproj">
+            BlueprintIdentifier = "6A6F13CD1A18FED300B765A4"
+            BuildableName = "Emoji Dictionary.app"
+            BlueprintName = "Emoji Dictionary"
+            ReferencedContainer = "container:Emoji Dictionary.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6AA2A25C1A4C649300BE269B"
-            BuildableName = "UX Myths.app"
-            BlueprintName = "UX Myths"
-            ReferencedContainer = "container:UX Myths.xcodeproj">
+            BlueprintIdentifier = "6A6F13CD1A18FED300B765A4"
+            BuildableName = "Emoji Dictionary.app"
+            BlueprintName = "Emoji Dictionary"
+            ReferencedContainer = "container:Emoji Dictionary.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6AA2A25C1A4C649300BE269B"
-            BuildableName = "UX Myths.app"
-            BlueprintName = "UX Myths"
-            ReferencedContainer = "container:UX Myths.xcodeproj">
+            BlueprintIdentifier = "6A6F13CD1A18FED300B765A4"
+            BuildableName = "Emoji Dictionary.app"
+            BlueprintName = "Emoji Dictionary"
+            ReferencedContainer = "container:Emoji Dictionary.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

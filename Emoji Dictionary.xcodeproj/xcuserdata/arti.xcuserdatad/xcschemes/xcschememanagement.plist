@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>UX Myths.xcscheme</key>
+		<key>Emoji Dictionary.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>6AA2A25C1A4C649300BE269B</key>
+		<key>6A6F13CD1A18FED300B765A4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6AA2A2761A4C649400BE269B</key>
+		<key>6A6F13E21A18FED300B765A4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
