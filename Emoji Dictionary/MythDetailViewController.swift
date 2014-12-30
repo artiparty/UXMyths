@@ -8,19 +8,21 @@
 
 import Foundation
 import UIKit
+import WebKit
 
-class EmojiDetailViewController : UIViewController {
+class MythDetailViewController : UIViewController {
     
-    @IBOutlet weak var emojiLabel: UILabel!
+    @IBOutlet weak var mythLabel: UILabel!
     
-    @IBOutlet weak var emojiDefinitionLabel: UILabel!
+    @IBOutlet weak var mythDefinitionLabel: UILabel!
     
-    var emoji = "🎽"
-    var emojiDefinition = "No definition"
+    var myth = "🎽"
+    var mythDefinition = "No definition"
     
     override func viewDidLoad() {
-        self.emojiLabel.text = self.emoji
-        self.emojiDefinitionLabel.text = self.emojiDefinition
+        super.viewDidLoad()
+//        self.mythLabel.text = self.myth
+//        self.mythDefinitionLabel.text = self.mythDefinition
     }
     
 }

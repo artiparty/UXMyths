@@ -6,45 +6,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Emoji Dictionary/EmojiListViewController.swift"
+            filePath = "Emoji Dictionary/MythListViewController.swift"
             timestampString = "437849954.153057"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "8"
             endingLineNumber = "8">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Emoji_Dictionary.EmojiListViewController.__deallocating_deinit"
-                  moduleName = "Emoji Dictionary"
-                  urlString = "file:///Users/arti/Desktop/Design/UX%20Myths/UXMyths/Emoji%20Dictionary/EmojiListViewController.swift"
-                  timestampString = "441217914.487404"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "12"
-                  endingLineNumber = "12"
-                  offsetFromSymbolStart = "12">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "@objc Emoji_Dictionary.EmojiListViewController.__ivar_destroyer"
-                  moduleName = "Emoji Dictionary"
-                  urlString = "file:///Users/arti/Desktop/Design/UX%20Myths/UXMyths/Emoji%20Dictionary/EmojiListViewController.swift"
-                  timestampString = "441217914.487569"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "12"
-                  endingLineNumber = "12"
-                  offsetFromSymbolStart = "15">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -53,13 +23,13 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Emoji Dictionary/EmojiListViewController.swift"
+            filePath = "Emoji Dictionary/MythListViewController.swift"
             timestampString = "437849871.126337"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "13"
             endingLineNumber = "13"
-            landmarkName = "EmojiListViewController"
+            landmarkName = "MythListViewController"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -76,26 +46,98 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Emoji Dictionary/EmojiListViewController.swift"
+            filePath = "Emoji Dictionary/MythListViewController.swift"
             timestampString = "441218338.378433"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "27"
             endingLineNumber = "27"
-            landmarkName = "myths"
-            landmarkType = "19">
+            landmarkName = "MythListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.MythListViewController.myth.getter : Swift.String"
+                  moduleName = "Emoji Dictionary"
+                  urlString = "file:///Users/arti/Desktop/Design/UX%20Myths/UXMyths/Emoji%20Dictionary/MythListViewController.swift"
+                  timestampString = "441567639.925896"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.MythListViewController.myth.setter : Swift.String"
+                  moduleName = "Emoji Dictionary"
+                  urlString = "file:///Users/arti/Desktop/Design/UX%20Myths/UXMyths/Emoji%20Dictionary/MythListViewController.swift"
+                  timestampString = "441567639.926086"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.MythListViewController.init (Emoji_Dictionary.MythListViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Emoji_Dictionary.MythListViewController"
+                  moduleName = "Emoji Dictionary"
+                  urlString = "file:///Users/arti/Desktop/Design/UX%20Myths/UXMyths/Emoji%20Dictionary/MythListViewController.swift"
+                  timestampString = "441567639.92645"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "986">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.MythListViewController.init (Emoji_Dictionary.MythListViewController.Type)() -&gt; Emoji_Dictionary.MythListViewController"
+                  moduleName = "Emoji Dictionary"
+                  urlString = "file:///Users/arti/Desktop/Design/UX%20Myths/UXMyths/Emoji%20Dictionary/MythListViewController.swift"
+                  timestampString = "441567639.926605"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1116">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.MythListViewController.init (Emoji_Dictionary.MythListViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Emoji_Dictionary.MythListViewController"
+                  moduleName = "Emoji Dictionary"
+                  urlString = "file:///Users/arti/Desktop/Design/UX%20Myths/UXMyths/Emoji%20Dictionary/MythListViewController.swift"
+                  timestampString = "441567639.926758"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1136">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Emoji Dictionary/EmojiListViewController.swift"
+            filePath = "Emoji Dictionary/MythListViewController.swift"
             timestampString = "441218436.959254"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
@@ -108,17 +150,121 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Emoji Dictionary/EmojiListViewController.swift"
+            filePath = "Emoji Dictionary/MythListViewController.swift"
             timestampString = "441227112.285398"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "24"
             endingLineNumber = "24"
-            landmarkName = "myths2"
-            landmarkType = "19">
+            landmarkName = "MythListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.MythListViewController.myth.getter : Swift.String"
+                  moduleName = "Emoji Dictionary"
+                  urlString = "file:///Users/arti/Desktop/Design/UX%20Myths/UXMyths/Emoji%20Dictionary/MythListViewController.swift"
+                  timestampString = "441567639.956623"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.MythListViewController.myth.setter : Swift.String"
+                  moduleName = "Emoji Dictionary"
+                  urlString = "file:///Users/arti/Desktop/Design/UX%20Myths/UXMyths/Emoji%20Dictionary/MythListViewController.swift"
+                  timestampString = "441567639.956851"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.MythListViewController.myth.materializeForSet : Swift.String"
+                  moduleName = "Emoji Dictionary"
+                  urlString = "file:///Users/arti/Desktop/Design/UX%20Myths/UXMyths/Emoji%20Dictionary/MythListViewController.swift"
+                  timestampString = "441567639.957047"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.MythListViewController.init (Emoji_Dictionary.MythListViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Emoji_Dictionary.MythListViewController"
+                  moduleName = "Emoji Dictionary"
+                  urlString = "file:///Users/arti/Desktop/Design/UX%20Myths/UXMyths/Emoji%20Dictionary/MythListViewController.swift"
+                  timestampString = "441567639.957245"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "986">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Emoji_Dictionary.MythListViewController.init (Emoji_Dictionary.MythListViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Emoji_Dictionary.MythListViewController"
+                  moduleName = "Emoji Dictionary"
+                  urlString = "file:///Users/arti/Desktop/Design/UX%20Myths/UXMyths/Emoji%20Dictionary/MythListViewController.swift"
+                  timestampString = "441567639.957624"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Emoji Dictionary/MythListViewController.swift"
+            timestampString = "441544001.895762"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "prepareForSegue(_:sender:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Emoji Dictionary/MythListViewController.swift"
+            timestampString = "441544002.654908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "prepareForSegue(_:sender:)"
+            landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

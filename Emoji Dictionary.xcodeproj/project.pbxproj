@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6A41E49F1A1A15EF001D59ED /* EmojiDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A41E49E1A1A15EF001D59ED /* EmojiDetailViewController.swift */; };
+		6A41E49F1A1A15EF001D59ED /* MythDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A41E49E1A1A15EF001D59ED /* MythDetailViewController.swift */; };
 		6A6F13D41A18FED300B765A4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6F13D31A18FED300B765A4 /* AppDelegate.swift */; };
 		6A6F13D61A18FED300B765A4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6F13D51A18FED300B765A4 /* ViewController.swift */; };
 		6A6F13D91A18FED300B765A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A6F13D71A18FED300B765A4 /* Main.storyboard */; };
 		6A6F13DB1A18FED300B765A4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A6F13DA1A18FED300B765A4 /* Images.xcassets */; };
 		6A6F13DE1A18FED300B765A4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6A6F13DC1A18FED300B765A4 /* LaunchScreen.xib */; };
 		6A6F13EA1A18FED300B765A4 /* Emoji_DictionaryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6F13E91A18FED300B765A4 /* Emoji_DictionaryTests.swift */; };
-		6A6F13F61A19041C00B765A4 /* EmojiListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6F13F51A19041C00B765A4 /* EmojiListViewController.swift */; };
+		6A6F13F61A19041C00B765A4 /* MythListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6F13F51A19041C00B765A4 /* MythListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		6A41E49E1A1A15EF001D59ED /* EmojiDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmojiDetailViewController.swift; sourceTree = "<group>"; };
+		6A41E49E1A1A15EF001D59ED /* MythDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MythDetailViewController.swift; sourceTree = "<group>"; };
 		6A6F13CE1A18FED300B765A4 /* Emoji Dictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Emoji Dictionary.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A6F13D21A18FED300B765A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6A6F13D31A18FED300B765A4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -39,7 +39,7 @@
 		6A6F13E31A18FED300B765A4 /* Emoji DictionaryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Emoji DictionaryTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A6F13E81A18FED300B765A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6A6F13E91A18FED300B765A4 /* Emoji_DictionaryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emoji_DictionaryTests.swift; sourceTree = "<group>"; };
-		6A6F13F51A19041C00B765A4 /* EmojiListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmojiListViewController.swift; sourceTree = "<group>"; };
+		6A6F13F51A19041C00B765A4 /* MythListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MythListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,8 +81,8 @@
 		6A6F13D01A18FED300B765A4 /* Emoji Dictionary */ = {
 			isa = PBXGroup;
 			children = (
-				6A6F13F51A19041C00B765A4 /* EmojiListViewController.swift */,
-				6A41E49E1A1A15EF001D59ED /* EmojiDetailViewController.swift */,
+				6A6F13F51A19041C00B765A4 /* MythListViewController.swift */,
+				6A41E49E1A1A15EF001D59ED /* MythDetailViewController.swift */,
 				6A6F13D71A18FED300B765A4 /* Main.storyboard */,
 				6A6F13D31A18FED300B765A4 /* AppDelegate.swift */,
 				6A6F13D51A18FED300B765A4 /* ViewController.swift */,
@@ -219,8 +219,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				6A6F13D61A18FED300B765A4 /* ViewController.swift in Sources */,
-				6A41E49F1A1A15EF001D59ED /* EmojiDetailViewController.swift in Sources */,
-				6A6F13F61A19041C00B765A4 /* EmojiListViewController.swift in Sources */,
+				6A41E49F1A1A15EF001D59ED /* MythDetailViewController.swift in Sources */,
+				6A6F13F61A19041C00B765A4 /* MythListViewController.swift in Sources */,
 				6A6F13D41A18FED300B765A4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
